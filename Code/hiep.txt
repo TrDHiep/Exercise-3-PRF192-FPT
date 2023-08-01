@@ -1,0 +1,9 @@
+Total employees: 1
+
+Employees with the same name:
+No employees with the same name found.
+
+Employees with maximum salary level:
+New maximum salary level found:
+ID: A123
+Name: hiep
